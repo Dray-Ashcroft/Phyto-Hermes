@@ -1,41 +1,48 @@
-# Phyto - Hermes 🧪
-
 <p align="center">
   <img src="assets/repo-banner.png" alt="Phyto - Hermes Banner" width="100%">
 </p>
 
-A clean, interactive educational web simulation modeling chemotrophism during angiosperm fertilization. Visualize how chemical attractants released by the ovule guide pollen tube growth toward the embryo sac for successful double fertilization.
+# 🧪 Phyto – Hermes
+
+### *Interactive Chemotropism & Fertilization Simulator*
+
+> An educational simulation modeling chemotropic pollen tube growth during angiosperm fertilization, from pollen germination and guidance toward the embryo sac to double fertilization.
+
+**🌱 Plant Reproduction · 🧬 Chemotropism · 🌸 Double Fertilization**
 
 ---
 
-## ✨ Features
+## ✦ Features
 
-* **Pollen Germination:** Launch a pollen grain onto the stigma and observe pollen tube initiation.
-* **Chemotropic Guidance:** Visualize pollen tube growth directed by chemical attractants released from the ovule.
-* **Interactive Controls:** Progress through each stage of pollen tube growth and fertilization with intuitive controls.
-* **Double Fertilization:** Observe the transport and release of two male gametes into the embryo sac.
-* **Scientific Visualization:** Explore the sequence of chemotrophic guidance in a clean, interactive environment.
-* **Reset Functionality:** Instantly restart the simulation to explore different scenarios.
+**🌱 Pollen Germination**  
+Observe pollen germination and pollen tube initiation on the stigma.
 
----
+**🧭 Chemotropic Guidance**  
+Visualize pollen tube growth directed by chemical attractants associated with the ovule.
 
-## 🚀 Built With & Hosted On
+**🎮 Interactive Controls**  
+Progress through pollen tube growth and fertilization stages.
 
-* **Repository:** GitHub
-* **Hosting:** GitHub Pages
+**🧬 Double Fertilization**  
+Observe the delivery of two male gametes into the embryo sac.
 
----
+**🔬 Scientific Visualization**  
+Explore the sequence of pollen tube guidance and fertilization interactively.
 
-## 🛠️ Credits & Acknowledgments
-
-* **Claude Fable:** Code Architecture
-* **Replit:** Debugging & Enhancement
-* **OpenAI:** Debugging & Rectified Prompt Generation
+**↻ Reset Functionality**  
+Restart the simulation to explore the process again.
 
 ---
 
-## 👤 Author
+## ⚙️ Technology
 
-* **Draven Ashcroft**
-  * M.Sc. Ag. Entomology, ASRB NET
-  * DIPS Chain Of Institutions
+**HTML · CSS · JavaScript**
+
+**Source:** GitHub  
+**Hosting:** GitHub Pages
+
+---
+
+## 📜 License
+
+**GNU General Public License v3.0 (GPL-3.0)**
