@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/repo-banner.png" alt="Phyto - Hermes Banner" width="100%">
+  <img src="assets/banner.png" alt="Phyto - Hermes Banner" width="100%">
 </p>
 
 # 🧪 Phyto – Hermes
