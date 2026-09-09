@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Phyto - Hermes Banner" width="100%">
+  <img src="assets/banner.png" alt="Phyto – Hermes — Interactive Chemotropism & Fertilization Simulator" width="100%">
 </p>
 
 # 🧪 Phyto – Hermes
 
 ### *Interactive Chemotropism & Fertilization Simulator*
 
-> An educational simulation modeling chemotropic pollen tube growth during angiosperm fertilization, from pollen germination and guidance toward the embryo sac to double fertilization.
+> **Phyto – Hermes** is an interactive visualization exploring **pollen tube chemotropic guidance, angiosperm fertilization, and double fertilization**.
+>
+🌱 **Plant Reproduction** · 🧬 **Chemotropism** · 🌸 **Double Fertilization**
 
-**🌱 Plant Reproduction · 🧬 Chemotropism · 🌸 Double Fertilization**
+**🔬 [Explore the Simulation](YOUR-LINK-HERE)**
 
 ---
 
@@ -18,7 +20,7 @@
 Observe pollen germination and pollen tube initiation on the stigma.
 
 **🧭 Chemotropic Guidance**  
-Visualize pollen tube growth directed by chemical attractants associated with the ovule.
+Visualize pollen tube growth directed by chemical attractants from the ovule.
 
 **🎮 Interactive Controls**  
 Progress through pollen tube growth and fertilization stages.
@@ -27,10 +29,16 @@ Progress through pollen tube growth and fertilization stages.
 Observe the delivery of two male gametes into the embryo sac.
 
 **🔬 Scientific Visualization**  
-Explore the sequence of pollen tube guidance and fertilization interactively.
+Explore pollen tube guidance and fertilization through interactive visualization.
 
 **↻ Reset Functionality**  
 Restart the simulation to explore the process again.
+
+---
+
+## 🧬 Core Concepts
+
+**Chemotropism · Pollen Tube Growth · Ovule Guidance · Angiosperm Fertilization · Double Fertilization · Embryo Sac**
 
 ---
 
@@ -38,11 +46,11 @@ Restart the simulation to explore the process again.
 
 **HTML · CSS · JavaScript**
 
-**Source:** GitHub  
+**Repository:** GitHub & Codeberg  
 **Hosting:** GitHub Pages
 
 ---
 
 ## 📜 License
 
-**GNU General Public License v3.0 (GPL-3.0)**
+Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
